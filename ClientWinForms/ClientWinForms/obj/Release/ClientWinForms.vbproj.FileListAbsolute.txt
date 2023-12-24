@@ -1,0 +1,15 @@
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\Client.exe.config
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\Client.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\Client.pdb
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\bin\Release\Client.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.Form1.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.EGE.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.formTeacher.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\ClientWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ClientWinForms\ClientWinForms\obj\Release\Client.pdb

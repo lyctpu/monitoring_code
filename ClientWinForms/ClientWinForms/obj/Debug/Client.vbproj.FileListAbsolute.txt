@@ -1,0 +1,11 @@
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\bin\Debug\Client.exe.config
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.vbprojResolveAssemblyReference.cache
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.MainForm.resources
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.Resources.resources
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.vbproj.GenerateResource.Cache
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\bin\Debug\Client.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\bin\Debug\Client.pdb
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\bin\Debug\Client.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Client\obj\Debug\Client.pdb
