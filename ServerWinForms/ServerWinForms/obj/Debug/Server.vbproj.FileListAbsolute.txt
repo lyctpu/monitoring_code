@@ -1,0 +1,10 @@
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.exe.config
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.MainForm.resources
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.Resources.resources
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.vbproj.GenerateResource.Cache
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.pdb
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\bin\Debug\Server.xml
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.exe
+C:\Users\Carlosky\AppData\Local\Temporary Projects\Server\obj\Debug\Server.pdb

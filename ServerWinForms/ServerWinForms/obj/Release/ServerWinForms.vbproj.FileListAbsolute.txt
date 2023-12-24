@@ -1,0 +1,16 @@
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Release\Server.exe.config
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Release\Server.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Release\Server.pdb
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Release\Server.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.Form1.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.Form3.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.UserControl1.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.pdb
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Release\Server.Form2.resources

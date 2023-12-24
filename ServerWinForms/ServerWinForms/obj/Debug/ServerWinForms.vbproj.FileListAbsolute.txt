@@ -1,0 +1,121 @@
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbprojResolveAssemblyReference.cache
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.Cache
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+D:\Carlosky\My Development\4.6\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\carlo\Downloads\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinFormsWithoutBuild-MultiUser-TOP\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\distr\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinForms\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form1.resources
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\Pavel\Downloads\ServerClientWinForms\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form1.resources
+C:\Users\coko\Downloads\ServerClientWinForms v.0.3\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.UserControl1.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe.config
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.exe
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.pdb
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\ServerWinForms.xml
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form1.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.UserControl1.resources
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.exe
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.xml
+C:\Users\Pavel\Downloads\SERVER\SERVER\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.pdb
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.AssemblyReference.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form1.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Form3.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.MainForm.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.Resources.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.UserControl1.resources
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.GenerateResource.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\ServerWinForms.vbproj.CoreCompileInputs.cache
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\Server.exe.config
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\Server.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\Server.pdb
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\bin\Debug\Server.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.exe
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.xml
+C:\Users\coko\Downloads\ServerClientWinForms111223\ServerClientWinForms\ServerWinForms\ServerWinForms\obj\Debug\Server.pdb
